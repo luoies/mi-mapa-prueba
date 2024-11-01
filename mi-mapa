@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapa Insertado</title>
+</head>
+<body>
+    <h1>Mapa de Google My Maps</h1>
+    <!-- Pega el código de inserción aquí -->
+    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1OpRZKnzp8rGsiVE06WUC704bwqoUDws&ehbc=2E312F" width="640" height="480"></iframe>
+</body>
+</html>
